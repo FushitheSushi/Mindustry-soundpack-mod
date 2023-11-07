@@ -5,14 +5,7 @@ Boss 1:
 Boss 2:
 Editor: Mii channel theme
 Fine:
-Game 1:
-Game 2:
-Game 3:
-Game 4:
-Game 5:
-Game 6:
-Game 7:
-Game 8:
-Game 9:
+Game 1 - 8: Hollow knight ost
+Game 9: You're Gonna Need a Bigger Ukulele
 Launch: Stickerbrush symphony
 Menu: Terraria menu music
